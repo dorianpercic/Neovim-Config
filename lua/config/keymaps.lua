@@ -8,3 +8,4 @@ vim.keymap.set("n", "<C-7>", "gcc", { remap = true, desc = "Comment line" })
 -- Visual Mode
 vim.keymap.set("v", "<C-_>", "gc", { remap = true, desc = "Comment selection" })
 vim.keymap.set("v", "<C-7>", "gc", { remap = true, desc = "Comment selection" })
+vim.keymap.set("n", "<C-a>", "ggVG", { remap = true, desc = "Select all lines" })
