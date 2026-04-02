@@ -5,3 +5,4 @@ vim.opt.relativenumber = false
 vim.opt.number = true
 vim.opt.swapfile = false
 vim.opt.shell = "fish"
+vim.opt.undofile = false
