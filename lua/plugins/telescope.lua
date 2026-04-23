@@ -9,7 +9,6 @@ return {
         "package-lock.json",
         "target/.*",
         ".git/.*",
-        "vendor/.*",
       },
     })
   end,

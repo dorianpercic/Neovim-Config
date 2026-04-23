@@ -6,3 +6,4 @@ vim.opt.number = true
 vim.opt.swapfile = false
 vim.opt.shell = "fish"
 vim.opt.undofile = false
+vim.opt.spelllang = { "en", "de_de" } -- Use de_de, not de_DE [9]
